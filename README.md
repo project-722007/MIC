@@ -83,9 +83,6 @@ This project is built and run in **Google Colab**.
 - **Video/temporal reasoning**: Add vehicle tracking across frames to support violation detection (e.g., red-light running, wrong-lane driving) and accident detection.
 - **Analytics dashboard, multi-camera support, heatmaps**: Stretch goals for a full traffic-monitoring system.
 
-## Screenshots
-
-*(Add training curves, confusion matrix, and sample predictions here.)*
 
 ---
 

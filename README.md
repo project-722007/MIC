@@ -1,4 +1,4 @@
-# AI Traffic Police 🚦
+# AI Traffic Police
 
 Computer vision project for helping traffic authorities monitor roads, detect incidents, and traffic management — made as a part of the CSI-VITC / VIT Chennai Computer Vision project track.
 

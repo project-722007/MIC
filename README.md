@@ -1,16 +1,16 @@
 # AI Traffic Police 🚦
 
-A computer vision system that helps traffic authorities monitor roads, detect incidents, and improve traffic management — built as part of the CSI-VITC / VIT Chennai Computer Vision project track.
+Computer vision project for helping traffic authorities monitor roads, detect incidents, and traffic management — made as a part of the CSI-VITC / VIT Chennai Computer Vision project track.
 
 ## Project Overview
 
-This project builds a CNN-based vehicle classification and detection pipeline in stages, progressing from basic vehicle-type classification (Part 1: Foundations) toward incident/violation detection (Part 2: Detection) and an accident-prevention dashboard (Part 3: Advanced).
+In this project, a vehicle classification and detection pipeline using a custom CNN is developed step-by-step, from basics of vehicle types classification (Part 1: Foundations) to violations/accidents detection (Part 2: Detection) and an accident prevention dashboard (Part 3: Advanced).
 
-Currently implemented: **Part 1 — vehicle type classification** (Bus, Motorcycle, car, truck) using a custom CNN trained in TensorFlow/Keras.
+Implementation done so far: Part 1 — Vehicle Types Classification (Bus, Motorcycle, car, truck) through a custom trained CNN.
 
 ## Problem Statement
 
-Manual traffic monitoring is labor-intensive and error-prone, especially at scale across multiple intersections and camera feeds. This project explores how computer vision can automate key traffic-authority tasks — starting with reliably classifying vehicle types from images, as a foundation for downstream tasks like emergency-vehicle detection, violation detection, and accident prevention.
+Manual traffic monitoring is labor-intensive and error-prone, especially at scale across multiple intersections and camera feeds. This project explores how computer vision can automate key traffic-authority tasks starting with reliably classifying vehicle types from images, as a foundation for downstream tasks like emergency vehicle detection, violation detection, and accident prevention.
 
 ## Installation Instructions
 
